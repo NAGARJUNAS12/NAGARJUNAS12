@@ -30,83 +30,20 @@ I enjoy working at the intersection of **data, cloud, and distributed systems** 
 **Analytics:**  `Pandas` `NumPy` `Power BI`
 
 ---
-
-## 🚀 Featured Projects
-
-### 🏎️ Formula 1 Data Engineering
-
-**Databricks • PySpark • Delta Lake • Azure Data Factory**
-
-An end-to-end Formula 1 data platform built using the **Databricks Lakehouse and Medallion Architecture**.
-
-- 🥉 Bronze → Silver → Gold data layers
-- 🔄 Incremental processing using Delta Lake MERGE/UPSERT
-- ⭐ Star Schema for analytical workloads
-- 📊 100K+ race records
-- ⚡ Spark performance optimization
-- 🔧 15+ orchestrated workflows
-
-🔗 **[View Project →](#)**
-
----
-
-### ☁️ End-to-End AWS Data Pipeline
-
-**AWS DMS • S3 • Glue • Redshift • Step Functions**
-
-A cloud-based data pipeline designed to ingest, transform, and serve data for analytics.
-
-```text
-Amazon RDS
-    ↓
-AWS DMS
-    ↓
-Amazon S3
-    ↓
-AWS Glue
-    ↓
-Amazon Redshift
-    ↓
-Amazon QuickSight
-```
-
-- ☁️ Bronze / Silver / Gold architecture
-- 🔄 Automated data ingestion using AWS DMS
-- ⚙️ ETL processing with AWS Glue
-- 🗂️ Schema management with Glue Data Catalog
-- 🔐 Secrets management using AWS Secrets Manager
-- 🚀 Workflow orchestration with Step Functions
-- 📈 Analytics using Amazon QuickSight
-
-🔗 **[View Project →](#)**
-
----
-
 ## 💼 Professional Experience
 
-### Infosys — Senior Data Engineer
+### Infosys — Senior Data Engineer **(Oct 2023 – Aug 2026)**
 
-**May 2025 – Aug 2026**
+Worked across **Data Engineering and Big Data projects** for global banking clients, progressing from Data Engineer to Senior Data Engineer.
 
-Worked on **cloud migration, ETL automation, Python-based data solutions, and data integration** across on-premise and cloud environments.
-
-- Built Python solutions integrating **SQL Server and Oracle** datasets.
-- Developed automated file monitoring utilities for ETL workflows.
-- Created Python-based notification and reporting automation.
-- Automated file transfers between **Amazon S3 buckets**.
-- Scheduled and orchestrated ETL workflows using **Autosys**.
-- Contributed to migration of legacy on-premise ETL workflows to cloud-based architecture.
-
-### Infosys — Data Engineer
-
-**Oct 2023 – Apr 2025**
-
-- Built metadata-driven ETL frameworks using **Python and PySpark**.
-- Automated multi-stage data processing and orchestration.
-- Optimized complex SQL transformations using PySpark DataFrames.
-- Developed advanced SQL/HQL transformations involving joins and aggregations.
-- Built dynamic schema-management solutions for target tables.
-- Developed reusable testing scripts for QA and pipeline validation.
+- Worked on **migrating legacy on-premise ETL workflows to cloud-based architectures**.
+- Built **metadata-driven ETL pipelines and automation frameworks** using Python and PySpark.
+- Designed multi-stage data processing workflows for scalable and reliable data movement.
+- Developed Python solutions for **data integration, workflow automation, file monitoring, notifications, and reporting**.
+- Worked with data across **SQL Server, Oracle, and AWS** environments.
+- Optimized SQL and PySpark transformations to improve pipeline performance and processing efficiency.
+- Developed **dynamic schema-management solutions** to simplify target-table updates.
+- Automated and orchestrated data workflows using **Autosys** and supported pipeline validation through reusable testing solutions.
 
 ---
 
