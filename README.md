@@ -104,18 +104,6 @@ I'm currently expanding my knowledge in:
 
 I'm always interested in connecting with people working in **Data Engineering, Big Data, Cloud, and Data Science**.
 
-**LinkedIn:** [Nagarjuna Sureshkumar](https://www.linkedin.com/in/nagarjuna-s-12apr21)
-
-**GitHub:** [NAGARJUNAS12](https://github.com/NAGARJUNAS12)
-
-**Email:** s.naga112015@gmail.com
-
----
-
-## 👋🏻 Connect With Me
-
-I'm always interested in connecting with people working in **Data Engineering, Big Data, Cloud, and Data Science**.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagarjuna%20Sureshkumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarjuna-s-12apr21)
 [![GitHub](https://img.shields.io/badge/GitHub-NAGARJUNAS12-181717?style=flat&logo=github&logoColor=white)](https://github.com/NAGARJUNAS12)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:s.naga112015@gmail.com)
