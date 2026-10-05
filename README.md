@@ -98,27 +98,7 @@ I'm currently expanding my knowledge in:
 - 📡 Real-Time Applications
 - 🧠 Data Science
 
----
-
-## 🌱 What I'm Interested In
-
-```text
-Data Engineering
-      │
-      ├── Big Data
-      │
-      ├── Cloud Platforms
-      │
-      ├── Distributed Systems
-      │
-      ├── Real-Time Processing
-      │
-      └── Machine Learning
 ```
-
-I'm particularly interested in building **scalable data platforms and real-time systems** that can handle large volumes of data efficiently.
-
----
 
 ## 👋🏻 Connect With Me
 
