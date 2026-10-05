@@ -1,113 +1,212 @@
-# Nagarjuna Sureshkumar
+# 👋 Hi, I'm Nagarjuna Sureshkumar
 
-**Data Engineer | Python • PySpark • SQL • AWS • Databricks**
+### Data Engineer | Python • PySpark • SQL • AWS • Databricks
 
-Building scalable data pipelines, cloud-based ETL solutions, and data platforms that turn complex data into meaningful insights.
+> Building scalable data pipelines, exploring big data, and turning raw data into something useful.
 
-## 👨🏻‍💻 About Me
+I'm a **Data Engineer with 3.6+ years of experience** building scalable, metadata-driven ETL solutions for global banking clients.
 
-I'm a Data Engineer with 3.6+ years of experience building scalable, metadata-driven ETL solutions for global banking clients.
+Previously, I worked at **Infosys** as a Data Engineer and Senior Data Engineer, focusing on **Python, PySpark, SQL, AWS, ETL automation, and cloud migration**.
 
-My work focuses on **Python, PySpark, SQL, AWS, Databricks, and distributed data processing**, with experience migrating legacy on-premise ETL workflows to cloud-based architectures.
+Currently, I'm pursuing my **MSc in Computer Science — Data Science at Trinity College Dublin 🇮🇪**, while exploring **Big Data, Cloud Data Engineering, Machine Learning, and Real-Time Data Processing**.
 
-I enjoy designing automated data pipelines, optimizing large-scale data transformations, and building reliable data platforms across both cloud and on-premise environments.
-
-Currently expanding my expertise in **Data Science, Big Data Analytics, Cloud Data Engineering, and Machine Learning**.
-
-## 🚀 What I Do
-
-- Build scalable ETL and data pipelines
-- Develop metadata-driven data processing frameworks
-- Work with Python, PySpark, SQL, and distributed data technologies
-- Design cloud-based data architectures using AWS
-- Build Lakehouse solutions using Databricks and Delta Lake
-- Optimize SQL and Spark workloads for better performance
-- Automate workflows using Airflow, Autosys, and cloud orchestration tools
-- Develop data validation and testing solutions
-- Integrate data across on-premise and cloud platforms
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, SQL, Java, C, C++
-- **Big Data:** PySpark, Apache Spark, Hive, HQL
-- **Data Analysis:** Pandas, NumPy, Power BI
-- **Cloud:** AWS S3, Glue, Lambda, RDS, EMR, Redshift, EventBridge, Step Functions, DMS
-- **Data Engineering:** Databricks, Delta Lake, Azure Data Factory
-- **Databases:** Oracle, Microsoft SQL Server, MySQL, SQLite, MongoDB
-- **Orchestration:** Airflow, Autosys
-- **DevOps:** Docker, Kubernetes, Linux, Harness, Flyway
-- **Development:** Git, GitHub, VS Code, Jupyter Notebook
-
-## 💼 Experience
-
-### Infosys — Senior Data Engineer
-
-**May 2025 – Present**
-
-- Migrated legacy on-premise ETL workflows to cloud-based architecture.
-- Developed dynamic Python solutions to integrate SQL Server and Oracle datasets.
-- Built automated file monitoring utilities to trigger ETL workflows.
-- Developed Python-based email notification and reporting automation.
-- Automated file transfers between Amazon S3 buckets.
-- Scheduled and orchestrated ETL workflows using Autosys.
-
-### Infosys — Data Engineer
-
-**October 2023 – April 2025**
-
-- Built a metadata-driven ETL framework using Python and PySpark.
-- Automated multi-stage data processing and orchestration.
-- Reduced manual effort across multiple pipelines through dynamic task orchestration.
-- Refactored complex SQL logic into PySpark DataFrame transformations.
-- Developed advanced SQL/HQL transformations involving joins, aggregations, and reference data.
-- Built dynamic schema management solutions for automated target-table updates.
-- Developed reusable testing scripts for QA and pipeline validation.
-
-## 🏆 Certifications
-
-- Databricks Certified Data Engineer – Associate
-- AWS Certified Data Engineer – Associate
-- IBM Data Engineering Professional Certificate
-
-## 🎓 Education
-
-### Trinity College Dublin
-
-**MSc in Computer Science — Data Science**
-
-Ireland
-
-### Sri Venkateswara College of Engineering
-
-**B.E. Computer Science & Engineering**
-
-May 2022 • CGPA: 8.54
-
-First Class with Distinction
-
-## 🥇 Achievements
-
-### Infosys RISE Award
-
-Received the prestigious **RISE Award at Infosys** for outstanding performance and contribution to project success as a Big Data Developer.
-
-## 🔭 Currently Exploring
-
-- Big Data Analytics
-- Real-Time Data Processing
-- Data Science
-- Machine Learning
-- Cloud Data Engineering
-- Databricks Lakehouse
-- Distributed Systems
-- Real-Time Applications
-
-## 👋🏻 Connect With Me
-
-- **LinkedIn:** [Nagarjuna Sureshkumar](https://www.linkedin.com/in/nagarjuna-s-12apr21)
-- **GitHub:** [NAGARJUNAS12](https://github.com/NAGARJUNAS12)
-- **Email:** s.naga112015@gmail.com
+I enjoy working at the intersection of **data, cloud, and distributed systems** — especially turning complex data into reliable and meaningful solutions.
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Python` `SQL` `Java` `C` `C++`
+
+**Big Data & Processing**
+
+`PySpark` `Apache Spark` `Hive` `HQL`
+
+**Cloud & Data Engineering**
+
+`AWS` `S3` `Glue` `Lambda` `RDS` `EMR` `Redshift` `DMS`  
+`Databricks` `Delta Lake` `Azure Data Factory`
+
+**Databases**
+
+`Oracle` `SQL Server` `MySQL` `MongoDB` `SQLite`
+
+**Orchestration & DevOps**
+
+`Airflow` `Autosys` `Docker` `Kubernetes` `Linux` `Git`
+
+**Analytics**
+
+`Pandas` `NumPy` `Power BI`
+
+---
+
+## 🚀 Featured Projects
+
+### 🏎️ Formula 1 Data Engineering
+
+**Databricks • PySpark • Delta Lake • Azure Data Factory**
+
+An end-to-end Formula 1 data platform built using the **Databricks Lakehouse and Medallion Architecture**.
+
+- 🥉 Bronze → Silver → Gold data layers
+- 🔄 Incremental processing using Delta Lake MERGE/UPSERT
+- ⭐ Star Schema for analytical workloads
+- 📊 100K+ race records
+- ⚡ Spark performance optimization
+- 🔧 15+ orchestrated workflows
+
+🔗 **[View Project →](#)**
+
+---
+
+### ☁️ End-to-End AWS Data Pipeline
+
+**AWS DMS • S3 • Glue • Redshift • Step Functions**
+
+A cloud-based data pipeline designed to ingest, transform, and serve data for analytics.
+
+```text
+Amazon RDS
+    ↓
+AWS DMS
+    ↓
+Amazon S3
+    ↓
+AWS Glue
+    ↓
+Amazon Redshift
+    ↓
+Amazon QuickSight
+```
+
+- ☁️ Bronze / Silver / Gold architecture
+- 🔄 Automated data ingestion using AWS DMS
+- ⚙️ ETL processing with AWS Glue
+- 🗂️ Schema management with Glue Data Catalog
+- 🔐 Secrets management using AWS Secrets Manager
+- 🚀 Workflow orchestration with Step Functions
+- 📈 Analytics using Amazon QuickSight
+
+🔗 **[View Project →](#)**
+
+---
+
+## 💼 Professional Experience
+
+### Infosys — Senior Data Engineer
+
+**May 2025 – Aug 2026**
+
+Worked on **cloud migration, ETL automation, Python-based data solutions, and data integration** across on-premise and cloud environments.
+
+- Built Python solutions integrating **SQL Server and Oracle** datasets.
+- Developed automated file monitoring utilities for ETL workflows.
+- Created Python-based notification and reporting automation.
+- Automated file transfers between **Amazon S3 buckets**.
+- Scheduled and orchestrated ETL workflows using **Autosys**.
+- Contributed to migration of legacy on-premise ETL workflows to cloud-based architecture.
+
+### Infosys — Data Engineer
+
+**Oct 2023 – Apr 2025**
+
+- Built metadata-driven ETL frameworks using **Python and PySpark**.
+- Automated multi-stage data processing and orchestration.
+- Optimized complex SQL transformations using PySpark DataFrames.
+- Developed advanced SQL/HQL transformations involving joins and aggregations.
+- Built dynamic schema-management solutions for target tables.
+- Developed reusable testing scripts for QA and pipeline validation.
+
+---
+
+## 🎓 Education
+
+### Trinity College Dublin 🇮🇪
+
+**MSc in Computer Science — Data Science**
+
+`2026 – Present`
+
+Exploring:
+
+`Data Science` `Big Data` `Machine Learning` `Cloud Computing` `Real-Time Systems`
+
+### Sri Venkateswara College of Engineering 🇮🇳
+
+**B.E. Computer Science & Engineering**
+
+`2022` • **CGPA: 8.54 / 10**
+
+First Class with Distinction
+
+---
+
+## 🏆 Certifications
+
+- 🟠 **Databricks Certified Data Engineer – Associate**
+- ☁️ **AWS Certified Data Engineer – Associate**
+- 🔵 **IBM Data Engineering Professional Certificate**
+
+---
+
+## 🥇 Achievements
+
+### 🏆 Infosys RISE Award
+
+Recognized for outstanding performance and contribution to project success as a **Big Data Developer**.
+
+---
+
+## 🔭 Currently Exploring
+
+I'm currently expanding my knowledge in:
+
+- 📊 Big Data Analytics
+- ⚡ Real-Time Data Processing
+- 🤖 Machine Learning
+- ☁️ Cloud Data Engineering
+- 🏠 Databricks Lakehouse
+- 🔄 Distributed Systems
+- 📡 Real-Time Applications
+- 🧠 Data Science
+
+---
+
+## 🌱 What I'm Interested In
+
+```text
+Data Engineering
+      │
+      ├── Big Data
+      │
+      ├── Cloud Platforms
+      │
+      ├── Distributed Systems
+      │
+      ├── Real-Time Processing
+      │
+      └── Machine Learning
+```
+
+I'm particularly interested in building **scalable data platforms and real-time systems** that can handle large volumes of data efficiently.
+
+---
+
+## 👋🏻 Connect With Me
+
+I'm always interested in connecting with people working in **Data Engineering, Big Data, Cloud, and Data Science**.
+
+**LinkedIn:** [Nagarjuna Sureshkumar](https://www.linkedin.com/in/nagarjuna-s-12apr21)
+
+**GitHub:** [NAGARJUNAS12](https://github.com/NAGARJUNAS12)
+
+**Email:** s.naga112015@gmail.com
+
+---
+
+### ⭐ Thanks for visiting!
+
+Feel free to explore my repositories, projects, and experiments in **Data Engineering & Data Science**.
