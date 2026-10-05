@@ -1,4 +1,4 @@
-# 👋 Nagarjuna Sureshkumar
+# Nagarjuna Sureshkumar
 
 **Data Engineer | Python • PySpark • SQL • AWS • Databricks**
 
