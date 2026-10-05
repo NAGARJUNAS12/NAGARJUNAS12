@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nagarjuna Sureshkumar
+# Hi, I'm Nagarjuna Sureshkumar
 
 ### Data Engineer | Python • PySpark • SQL • AWS • Databricks
 
@@ -16,30 +16,18 @@ I enjoy working at the intersection of **data, cloud, and distributed systems** 
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages:**  `Python` `SQL` `Java` `C` `C++`
 
-`Python` `SQL` `Java` `C` `C++`
+**Big Data & Processing:**  `PySpark` `Apache Spark` `Hive` `HQL`
 
-**Big Data & Processing**
+**Cloud & Data Engineering:**  `AWS` `S3` `Glue` `Lambda` `RDS` `EMR` `Redshift` `DMS`  
+							   `Databricks` `Delta Lake` `Azure Data Factory`
 
-`PySpark` `Apache Spark` `Hive` `HQL`
+**Databases:**  `Oracle` `SQL Server` `MySQL` `MongoDB` `SQLite`
 
-**Cloud & Data Engineering**
+**Orchestration & DevOps:**  `Airflow` `Autosys` `Docker` `Kubernetes` `Linux` `Git`
 
-`AWS` `S3` `Glue` `Lambda` `RDS` `EMR` `Redshift` `DMS`  
-`Databricks` `Delta Lake` `Azure Data Factory`
-
-**Databases**
-
-`Oracle` `SQL Server` `MySQL` `MongoDB` `SQLite`
-
-**Orchestration & DevOps**
-
-`Airflow` `Autosys` `Docker` `Kubernetes` `Linux` `Git`
-
-**Analytics**
-
-`Pandas` `NumPy` `Power BI`
+**Analytics:**  `Pandas` `NumPy` `Power BI`
 
 ---
 
