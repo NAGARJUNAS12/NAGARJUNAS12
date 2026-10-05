@@ -68,15 +68,6 @@ Currently expanding my expertise in **Data Science, Big Data Analytics, Cloud Da
 - Databricks Certified Data Engineer – Associate
 - AWS Certified Data Engineer – Associate
 - IBM Data Engineering Professional Certificate
-- SAP Certified Associate – Back-End Developer – ABAP Cloud
-- Infosys PySpark Professional
-- Infosys Data Management Associate
-- Infosys Database and SQL Professional
-- Microsoft Power BI Developer
-- MySQL Associate
-- Python Associate
-- Infosys Spark Professional
-- Infosys Cloud Beginner
 
 ## 🎓 Education
 
