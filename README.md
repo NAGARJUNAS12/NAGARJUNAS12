@@ -16,20 +16,20 @@ I enjoy working at the intersection of **data, cloud, and distributed systems** 
 
 ## 🛠️ Tech Stack
 
-**Languages:**  `Python` `SQL` `Java` `C` `C++`
+**Languages:** `Python` `SQL` `Java` `C` `C++`
 
-**Big Data & Processing:**  `PySpark` `Apache Spark` `Hive` `HQL`
+**Big Data & Processing:** `PySpark` `Apache Spark` `Hive` `HQL`
 
-**Cloud & Data Engineering:**  `AWS` `S3` `Glue` `Lambda` `RDS` `EMR` `Redshift` `DMS`  
-							   `Databricks` `Delta Lake` `Azure Data Factory`
+**Cloud & Data Engineering:** `AWS` `S3` `Glue` `Lambda` `RDS` `EMR` `Redshift` `DMS` `Databricks` `Delta Lake` `Azure Data Factory`
 
-**Databases:**  `Oracle` `SQL Server` `MySQL` `MongoDB` `SQLite`
+**Databases:** `Oracle` `SQL Server` `MySQL` `MongoDB` `SQLite`
 
-**Orchestration & DevOps:**  `Airflow` `Autosys` `Docker` `Kubernetes` `Linux` `Git`
+**Orchestration & DevOps:** `Airflow` `Autosys` `Docker` `Kubernetes` `Linux` `Git`
 
-**Analytics:**  `Pandas` `NumPy` `Power BI`
+**Analytics:** `Pandas` `NumPy` `Power BI`
 
 ---
+
 ## 💼 Professional Experience
 
 ### Infosys — Senior Data Engineer **(Oct 2023 – Aug 2026)**
@@ -98,7 +98,7 @@ I'm currently expanding my knowledge in:
 - 📡 Real-Time Applications
 - 🧠 Data Science
 
-```
+---
 
 ## 👋🏻 Connect With Me
 
@@ -109,10 +109,6 @@ I'm always interested in connecting with people working in **Data Engineering, B
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:s.naga112015@gmail.com)
 
 ---
-
-### ⭐ Thanks for visiting!
-
-Feel free to explore my repositories, projects, and experiments in **Data Engineering & Data Science**.
 
 ### ⭐ Thanks for visiting!
 
